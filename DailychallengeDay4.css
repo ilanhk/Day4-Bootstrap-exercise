@@ -1,0 +1,27 @@
+
+#beets{
+  background-color: #f9f9f9;
+}
+
+table{
+  width: 100%;
+  border: 1px solid #ededed;
+}
+
+h1{
+  font: Black Arial;
+}
+
+.sidebar{
+  height: 280px;
+}
+
+/* .veg{
+  padding: 1px;
+border: 1px solid #e6e6e6;
+} */
+
+/* .imagesoffood{
+  display: flex;
+  flex-direction: column;
+} */
